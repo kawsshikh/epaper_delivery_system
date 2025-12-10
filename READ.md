@@ -61,7 +61,7 @@ epaper-project/
 
 ### 1. Clone the Repository
 ```bash 
-git clone <url>
+git clone https://github.com/kawsshikh/epaper_delivery_system
 cd epaper_delivery_system
 ```
 
