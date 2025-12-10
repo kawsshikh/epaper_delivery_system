@@ -4,6 +4,10 @@
 > for data archival, and **Python's email libraries** to process user requests (e.g., "eenadu 09-12-2025") and deliver 
 > the resulting PDF file via SMTP.
 
+## Workflow
+Workflow of the project created by Nanobanana
+![Email Request](screenshots/working_nanobanana.png)
+
 ## Features
 
 The E-paper Delivery System is a robust, modular Python application designed for the automated acquisition, archival, and delivery of daily newspapers : Eenadu, Sakshi & Andhrajyothy
