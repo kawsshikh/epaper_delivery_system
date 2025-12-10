@@ -1,0 +1,7 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Sensitive Configuration
+.env
